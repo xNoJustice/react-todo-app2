@@ -1,4 +1,6 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-todo-app2/blob/5fbbbe5460c4b6bc388c579547a7ed4377356c1a/todoapp1.gif" alt="" />
+
+<img src="https://github.com/xNoJustice/react-todo-app2/blob/5fbbbe5460c4b6bc388c579547a7ed4377356c1a/todoapp2.gif" alt="" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
